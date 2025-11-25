@@ -9,6 +9,7 @@ NetworkResolution = {
     SupportedGames.VALORANT: [4000, 120, 15, 2],
     SupportedGames.OVERWATCH: [10000, 120, 15, 2],
     SupportedGames.CSGO2: [10000, 120, 15, 2],
+    SupportedGames.BF6: [9075, 120, 15, 2],
 }
 
 

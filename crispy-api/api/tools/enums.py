@@ -7,3 +7,4 @@ class SupportedGames(str, Enum):
     CSGO2 = "csgo2"
     THE_FINALS = "the-finals"
     LEAGUE_OF_LEGENDS = "league-of-legends"
+    BF6 = "bf6"

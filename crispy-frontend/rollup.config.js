@@ -28,6 +28,7 @@ function serve() {
 	};
 }
 
+
 export default {
 	input: "src/main.js",
 	output: {
